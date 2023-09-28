@@ -1,0 +1,6 @@
+Para manejar VSCode y Github con solturas necesitas "horas de vuelo". La 
+única forma de interiorizar el flujo de trabajo y aprender a usar las 
+herramientas es practicando. No hay otro secreto. Cuanto más practiques 
+mejor. Además de los ejercicios de esta asignatura, te recomiendo que te 
+crees tus propios repositorios para practicar. Haz tus propios proyectos y 
+súbelos a github. Practica con ellos usando VSCod
